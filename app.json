@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "VSN VASTRAA Tracker",
+    "slug": "vsn-vastraa-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/vsn-vastraa-logo.jpeg",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#073b2b"
+      }
+    }
+  }
+}
